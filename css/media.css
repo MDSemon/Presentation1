@@ -1,0 +1,225 @@
+
+
+ /*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+	/*common classes start*/
+	.mytitle-1 {
+    	font-size: 40px;
+}
+	.mytitle-3 {
+    	font-size: 18px;
+}
+	/*common classes end*/
+	/*topbar start*/
+	.search-box{
+		width: auto;
+}
+	/*topbar end*/
+	/*slider start*/
+	.slider {
+    	padding: 50px 0px 70px;
+}
+	.slider-text{
+		margin-top: 0px;
+}
+	.slider-text h1{
+		font-size: 40px;
+}
+	.slider-text h2{
+		font-size: 20px;
+}
+	/*slider end*/
+	/*motorcycle start*/
+	.specification ul li {
+	    padding: 5px 0px;
+	    font-size: 14px;
+}
+	/*motorcycle end*/
+	/*brands start*/
+	.brands{
+		width: 50%;
+		height: auto;
+}
+	/*brands end*/
+	/*service start*/
+	.left-content{
+		transform: none;
+		width: 90%;
+}
+	.right-content{
+		transform: none;
+		width: 90%;
+}
+	/*service end*/
+	/*articles start*/
+	.article{
+		padding: 35px 0px;
+}
+	/*articles end*/
+	/*newsletter start*/
+	.newsletter{
+		padding: 60px 0;
+}
+	.arrow{
+		right: 45%;
+}
+	.form_card {
+    	padding: 30px;
+}
+	/*newsletter end*/
+	/*footer start*/
+	.p-35{
+		padding-bottom: 35px;
+}
+	/*footer end*/
+
+ }
+
+ /*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	/*common classes start*/
+	.mytitle-1 {
+    	font-size: 40px;
+}
+	.mytitle-3 {
+    	font-size: 18px;
+}
+	/*common classes end*/
+	/*topbar start*/
+	.search-box{
+		width: auto;
+}
+	/*topbar end*/
+	/*slider start*/
+	.slider {
+    	padding: 50px 0px 70px;
+}
+	.slider-text{
+		margin-top: 0px;
+}
+	/*slider end*/
+	/*motorcycle start*/
+	.specification ul li {
+	    padding: 5px 0px;
+	    font-size: 14px;
+}
+	/*motorcycle end*/
+	/*brands start*/
+	.brands{
+		width: 50%;
+		height: auto;
+}
+	/*brands end*/
+	/*service start*/
+	.left-content{
+		transform: none;
+		width: 90%;
+}
+	.right-content{
+		transform: none;
+		width: 90%;
+}
+	/*service end*/
+	/*articles start*/
+	.article{
+		padding: 35px 0px;
+}
+	/*articles end*/
+	/*newsletter start*/
+	.newsletter{
+		padding: 60px 0;
+}
+	.arrow{
+		right: 46%;
+}
+	/*newsletter end*/
+	/*footer start*/
+	.p-35{
+		padding-bottom: 35px;
+}
+	/*footer end*/
+
+ }
+
+ /*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+	/*common classes start*/
+	.mytitle-1 {
+    	font-size: 40px;
+}
+	.mytitle-3 {
+    	font-size: 18px;
+}
+	/*common classes end*/
+	/*slider start*/
+	.slider {
+    	padding: 50px 0px 70px;
+}
+	.slider-text{
+		margin-top: 0px;
+}
+	/*slider end*/
+	/*motorcycle start*/
+	.bikes {
+	    padding: 50px 0 75px;
+}
+	.mytitle-2{
+		font-size: 16px;
+}
+	.specification ul li {
+	    padding: 5px 0px;
+	    font-size: 14px;
+}
+	/*motorcycle end*/
+	/*reviews start*/
+	.custom_card{
+		padding: 12px 25px;
+}
+	.service-name {
+    	letter-spacing: 0px;
+    	font-size: 14px;
+}
+	/*reviews end*/
+	.card-body{
+		padding: 0px 5px 0px 5px;
+	}
+	/*newsletter start*/
+	.newsletter{
+		padding: 60px 0;
+}
+	.arrow{
+		right: 46%;
+}
+	.formation{
+		padding: 40px 0px 0px;
+	}
+ 	/*newsletter end*/
+ }
+
+ /*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+	/*motorcycle start*/
+	.mytitle-2{
+		font-size: 16px;
+}
+ 	.specification ul li {
+	    padding: 5px 0px;
+	    font-size: 14px;
+}
+	/*motorcycle end*/
+	/*reviews start*/
+	.custom_card{
+		padding: 12px 25px;
+}
+	/*reviews end*/
+	/*service start*/
+	.service-name{
+		letter-spacing: 0px;
+    	font-size: 16px;
+}
+	/*service end*/
+ }
+
+ /*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+ }
